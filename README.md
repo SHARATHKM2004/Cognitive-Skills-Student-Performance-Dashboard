@@ -1,11 +1,4 @@
-Nice 👌 I’ve checked your uploaded files.
 
-Your project has:
-
-* A **Next.js dashboard** (with `app/`, `components/`, `package.json`, etc.).
-* A **Jupyter Notebook** (`IGEBRA_AI.ipynb`) with your ML + analysis.
-
-Now, I’ll prepare a **README.md** tailored to your submission.
 
 ---
 
